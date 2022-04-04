@@ -1,0 +1,15 @@
+c:\users\david\documents\visual studio 2017\Projects\CalcWPF\CalcWPF\bin\Debug\CalcWPF.exe.config
+c:\users\david\documents\visual studio 2017\Projects\CalcWPF\CalcWPF\bin\Debug\CalcWPF.exe
+c:\users\david\documents\visual studio 2017\Projects\CalcWPF\CalcWPF\bin\Debug\CalcWPF.pdb
+c:\users\david\documents\visual studio 2017\Projects\CalcWPF\CalcWPF\obj\Debug\CalcWPF.csprojAssemblyReference.cache
+c:\users\david\documents\visual studio 2017\Projects\CalcWPF\CalcWPF\obj\Debug\App.g.cs
+c:\users\david\documents\visual studio 2017\Projects\CalcWPF\CalcWPF\obj\Debug\CalcWPF_MarkupCompile.cache
+c:\users\david\documents\visual studio 2017\Projects\CalcWPF\CalcWPF\obj\Debug\CalcWPF_MarkupCompile.lref
+c:\users\david\documents\visual studio 2017\Projects\CalcWPF\CalcWPF\obj\Debug\CalcWPF.g.resources
+c:\users\david\documents\visual studio 2017\Projects\CalcWPF\CalcWPF\obj\Debug\CalcWPF.Properties.Resources.resources
+c:\users\david\documents\visual studio 2017\Projects\CalcWPF\CalcWPF\obj\Debug\CalcWPF.csproj.GenerateResource.cache
+c:\users\david\documents\visual studio 2017\Projects\CalcWPF\CalcWPF\obj\Debug\CalcWPF.csproj.CoreCompileInputs.cache
+c:\users\david\documents\visual studio 2017\Projects\CalcWPF\CalcWPF\obj\Debug\CalcWPF.exe
+c:\users\david\documents\visual studio 2017\Projects\CalcWPF\CalcWPF\obj\Debug\CalcWPF.pdb
+c:\users\david\documents\visual studio 2017\Projects\CalcWPF\CalcWPF\obj\Debug\View\CalcView.g.cs
+c:\users\david\documents\visual studio 2017\Projects\CalcWPF\CalcWPF\obj\Debug\View\CalcView.baml
